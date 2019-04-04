@@ -1,6 +1,8 @@
 # vue-demo
 
-> chy learn vue
+> 陈海洋 vue学习
+
+> 添加todulist，组件传递数据
 
 ## Build Setup
 
